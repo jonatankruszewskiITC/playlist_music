@@ -17,4 +17,6 @@ const playlist = [
     { singer: "Backstreet Boys", song: "Everybody" },
     { singer: "Brithney Spears", song: "Oops I did it Again" },
 
+
+    { singer: "kiss", song: "I was made for loving you" }
 ];
