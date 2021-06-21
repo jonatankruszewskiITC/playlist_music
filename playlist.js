@@ -18,5 +18,12 @@ const playlist = [
     { singer: "Brithney Spears", song: "Oops I did it Again" },
 
 
-    { singer: "kiss", song: "I was made for loving you" }
+    { singer: "kiss", song: "I was made for loving you" },
+
+    { singer: "Brithney Spears", song: "Oops I did it Again" },
+    { singer: "Brithney Spears", song: "Oops I did it Again" },
+    { singer: "Brithney Spears", song: "Oops I did it Again" },
+    { singer: "Brithney Spears", song: "Oops I did it Again" },
+
+
 ];
