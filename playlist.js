@@ -13,4 +13,8 @@ const playlist = [
     { singer: "metallice", song: "The masses" },
 
     { singer: "Madonna", song: "Like a Virgin" },
+    { singer: "Spice Girls", song: "If you wanna be my lover" },
+    { singer: "Backstreet Boys", song: "Everybody" },
+    { singer: "Brithney Spears", song: "Oops I did it Again" },
+
 ];
