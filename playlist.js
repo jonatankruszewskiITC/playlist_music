@@ -11,4 +11,6 @@ const playlist = [
     { singer: "dream theater", song: "octavarium" },
     { singer: "dream theater", song: "as I am" },
     { singer: "metallice", song: "The masses" },
+
+    { singer: "Madonna", song: "Like a Virgin" },
 ];
